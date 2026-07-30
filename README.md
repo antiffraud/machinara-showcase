@@ -115,7 +115,7 @@ The prediction, chat, and ticket services were unavailable during the last verif
 
 ## Repository Contents and Source Availability
 
-This repository contains portfolio documentation and selected presentation assets. The team frontend implementation is available in the [public frontend repository](https://github.com/antiffraud/frontend-Machinara-Asah-By-Dicoding---Capstone-Project-) for project context. Other service implementations remain private and can be made available for technical review upon request.
+This repository contains portfolio documentation and selected presentation assets. The team frontend implementation is available in the [public frontend repository](https://github.com/antiffraud/frontend-Machinara-Asah-By-Dicoding---Capstone-Project-) for project context. Other service implementations remain private; a technical walkthrough can be provided upon request.
 
 ## Team Attribution
 
