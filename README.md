@@ -13,7 +13,7 @@
 ![Express](https://img.shields.io/badge/Express-Ticketing%20Service-000000?logo=express&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-Hybrid%20Inference-F7931E)
 
-[**Frontend UI Preview**](https://frontend-machinara-bvqg.vercel.app) · [**Team Frontend Source**](https://github.com/antiffraud/frontend-Machinara-Asah-By-Dicoding---Capstone-Project-)
+[**Open the Machinara deployment**](https://machinara.wintech.my.id/)
 
 ## Overview
 
@@ -21,8 +21,14 @@ Machinara is a five-person ASAH by Dicoding capstone exploring how machine-learn
 
 The prototype brings anomaly detection, failure forecasting, what-if simulation, AI-assisted interpretation, and maintenance-ticket prioritization into one web experience. It uses the AI4I sample dataset together with manual and simulated operating inputs rather than a live industrial sensor feed.
 
+## Product Showcase
+
 <p align="center">
-  <img src="assets/landing-page-concept.png" alt="Machinara frontend landing-page concept" width="100%">
+  <img src="assets/machinara-product-showcase-public.png" alt="Machinara dashboard, risk forecasting, ticketing, copilot, and administration showcase; employee phone numbers are redacted" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/machinara-landing-showcase.png" alt="Machinara landing experience and feature showcase" width="100%">
 </p>
 
 ## My Contribution
@@ -103,23 +109,28 @@ flowchart LR
 | ML and physics service | Python, FastAPI, Uvicorn, scikit-learn |
 | Application service | Node.js, Express |
 | AI integration | LLM-based natural-language analysis |
-| Delivery | REST APIs, Vercel-hosted frontend |
+| Delivery | REST APIs, custom web deployment |
 
-## Frontend UI Preview
+## Live Demo
 
-The frontend landing experience was verified as reachable on 30 July 2026:
+[Open the Machinara application](https://machinara.wintech.my.id/)
 
-[Open the Machinara frontend UI preview](https://frontend-machinara-bvqg.vercel.app)
+Demo accounts documented for the project environment:
 
-The prediction, chat, and ticket services were unavailable during the last verification, so this link should be treated as a UI preview rather than a fully operational live demo.
+| Username (phone number) | Password | Role |
+| --- | --- | --- |
+| `081234567890` | `123` | Administrator |
+| `089876543210` | `123` | User |
+
+These accounts are for portfolio demonstration only. Feature availability depends on the deployed application services.
 
 ## Repository Contents and Source Availability
 
-This repository contains portfolio documentation and selected presentation assets. The team frontend implementation is available in the [public frontend repository](https://github.com/antiffraud/frontend-Machinara-Asah-By-Dicoding---Capstone-Project-) for project context. Other service implementations remain private; a technical walkthrough can be provided upon request.
+This public showcase contains curated portfolio documentation and privacy-reviewed presentation assets. The product and service repositories remain private because they include team-owned implementation context and deployment configuration. A technical walkthrough or source review can be provided upon request.
 
 ## Team Attribution
 
-Machinara was created collaboratively as an ASAH by Dicoding capstone. The linked frontend repository and complete product represent team work; this showcase focuses on Muhamad Erwin Hariadinata's verified machine-learning, forecasting, LLM, API-integration, and ticket-priority contributions.
+Machinara was created collaboratively as an ASAH by Dicoding capstone. The complete product represents team work; this showcase focuses on Muhamad Erwin Hariadinata's verified machine-learning, forecasting, LLM, API-integration, and ticket-priority contributions.
 
 ## Project Scope
 
