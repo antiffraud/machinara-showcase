@@ -3,7 +3,7 @@
 > An AI-assisted maintenance prototype for exploring machine health, testing operating scenarios, forecasting failure risk, and prioritizing maintenance work.
 
 <p align="center">
-  <img src="assets/machinara-logo.png" alt="Machinara logo" width="70%">
+  <img src="assets/machinara-logo-hd.png" alt="Machinara logo" width="260">
 </p>
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
@@ -13,7 +13,7 @@
 ![Express](https://img.shields.io/badge/Express-Ticketing%20Service-000000?logo=express&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-Hybrid%20Inference-F7931E)
 
-[**Open the Machinara deployment**](https://machinara.wintech.my.id/)
+[**Live Application**](https://machinara.wintech.my.id/) · [**Fallback UI Preview**](https://frontend-machinara-bvqg.vercel.app)
 
 ## Overview
 
@@ -113,7 +113,10 @@ flowchart LR
 
 ## Live Demo
 
-[Open the Machinara application](https://machinara.wintech.my.id/)
+- [Open the primary Machinara application](https://machinara.wintech.my.id/)
+- [Open the fallback Vercel UI preview](https://frontend-machinara-bvqg.vercel.app)
+
+The Vercel deployment is provided as a frontend-only fallback for viewing the interface. It does not provide login access to the application features.
 
 Demo accounts documented for the project environment:
 
